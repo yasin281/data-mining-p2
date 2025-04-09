@@ -1,0 +1,10 @@
+# Do not include the following files with extension
+
+# .zip
+*.zip
+
+# Notebook checkpoints
+*.ipynb_checkpoints
+
+
+

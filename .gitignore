@@ -6,5 +6,7 @@
 # Notebook checkpoints
 *.ipynb_checkpoints
 
+#Python virtual environment
+venv
 
 
